@@ -28,6 +28,7 @@ These listings hold no steps or code. omnigami's free skills are in their own pu
 | [Pitch deck](https://omnigami.ai/skills/pitch-deck) | Your product. Your facts. Your pitch. | $4.99 | |
 | [Launch kit](https://omnigami.ai/skills/launch-kit) | One launch. Every place you share it. | $4.99 | |
 | [Flow diagram](https://omnigami.ai/skills/flow-diagram) | Show where the work goes, and what changes when it arrives. | $4.99 | [Cursor camera](https://omnigami.ai/skills/cursor-camera) |
+| [Recording film](https://omnigami.ai/skills/recording-film) | Your real app in use, filmed on a photoreal iPhone. | $4.99 | [Cursor camera](https://omnigami.ai/skills/cursor-camera) |
 
-Or get all 21 with the [omnigami pass](https://omnigami.ai/skills/pass).
+Or get all 22 with the [omnigami pass](https://omnigami.ai/skills/pass).
 omnigami is not affiliated with Anthropic.
