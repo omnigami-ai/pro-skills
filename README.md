@@ -10,7 +10,6 @@ These listings hold no steps or code. omnigami's free skills are in their own pu
 | [Screen-lit mockups](https://omnigami.ai/skills/screen-lit-mockups) | Your app, lit by its own screen. | $4.99 | [Device mockups](https://omnigami.ai/skills/device-mockups) |
 | [Cutout film](https://omnigami.ai/skills/cutout-film) | A 40-second launch film of your real product, in a stepped cut-paper style. | $4.99 | [Product film](https://omnigami.ai/skills/product-film) |
 | [Device film](https://omnigami.ai/skills/device-film) | A 40-second launch film of your real product on photoreal devices, cut like a hardware launch. | $7.99 | [Product film](https://omnigami.ai/skills/product-film) |
-| [Unfold](https://omnigami.ai/skills/unfold) | A keynote-style launch film in one continuous shot. | $4.99 | [Product film](https://omnigami.ai/skills/product-film) |
 | [Terminal film](https://omnigami.ai/skills/terminal-film) | Your real terminal, big headlines and a 3D brand ending. | $4.99 | [Product film](https://omnigami.ai/skills/product-film) |
 | [Headline film](https://omnigami.ai/skills/headline-film) | A launch film with big type, real app cards and a beat to follow. | $4.99 | [Product film](https://omnigami.ai/skills/product-film) |
 | [Walkthrough film](https://omnigami.ai/skills/walkthrough-film) | One item’s journey, told through your real product. | $7.99 | [Product film](https://omnigami.ai/skills/product-film) |
@@ -32,5 +31,5 @@ These listings hold no steps or code. omnigami's free skills are in their own pu
 | [Live demo](https://omnigami.ai/skills/live-demo) | A working demo of your product, playing right on your page. | $7.99 | [Cursor camera](https://omnigami.ai/skills/cursor-camera) |
 | [Exploded view film](https://omnigami.ai/skills/exploded-view-film) | An exploded view film of your physical product, from its real internal parts. | $7.99 | [Product film](https://omnigami.ai/skills/product-film) |
 
-Or get all 24 with the [omnigami pass](https://omnigami.ai/skills/pass).
+Or get all 23 with the [omnigami pass](https://omnigami.ai/skills/pass).
 omnigami is not affiliated with Anthropic.
