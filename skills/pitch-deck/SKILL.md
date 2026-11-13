@@ -1,6 +1,6 @@
 ---
 name: pitch-deck
-description: "Pitch deck: your product. Your facts. Your pitch. Turn your real product screens and business facts into a fundraising pitch deck. Show the problem, product, market, traction, model, team and ask, with presenter notes and matching HTML, PDF, MP4 and editable PowerPoint titles. omnigami Pro skill, from https://omnigami.ai/skills/pitch-deck. Use for an investor presentation at pre-seed, seed or later; never invent missing business evidence."
+description: "Pitch deck: your product. Your facts. Your pitch. Build a fundraising story from your real product screens and business facts. Bring the problem, market, product, traction, team and ask together in a visual presentation, with presenter notes and matching HTML, PDF, silent MP4 and editable PowerPoint. omnigami Pro skill, from https://omnigami.ai/skills/pitch-deck."
 ---
 
 # Pitch deck (listing)
@@ -8,7 +8,7 @@ description: "Pitch deck: your product. Your facts. Your pitch. Turn your real p
 This is the listing of an omnigami Pro skill. The skill itself is in a private repository that buyers get access to;
 this folder holds no steps or code, so don't try to make anything from it.
 
-**What it makes:** Your product. Your facts. Your pitch. Turn your real product screens and business facts into a fundraising pitch deck. Show the problem, product, market, traction, model, team and ask, with presenter notes and matching HTML, PDF, MP4 and editable PowerPoint titles.
+**What it makes:** Your product. Your facts. Your pitch. Build a fundraising story from your real product screens and business facts. Bring the problem, market, product, traction, team and ask together in a visual presentation, with presenter notes and matching HTML, PDF, silent MP4 and editable PowerPoint.
 
 **Where to get it:** https://omnigami.ai/skills/pitch-deck ($4.99, once).
 

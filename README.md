@@ -30,6 +30,8 @@ These listings hold no steps or code. omnigami's free skills are in their own pu
 | [Recording film](https://omnigami.ai/skills/recording-film) | Your real app in use, filmed on a photoreal iPhone. | $4.99 | [Cursor camera](https://omnigami.ai/skills/cursor-camera) |
 | [Live demo](https://omnigami.ai/skills/live-demo) | A working demo of your product, playing right on your page. | $7.99 | [Cursor camera](https://omnigami.ai/skills/cursor-camera) |
 | [Exploded view film](https://omnigami.ai/skills/exploded-view-film) | An exploded view film of your physical product, from its real internal parts. | $7.99 | [Product film](https://omnigami.ai/skills/product-film) |
+| [Case study deck](https://omnigami.ai/skills/case-study-deck) | One customer. One decision. A story worth showing. | $4.99 | |
+| [How-to carousel](https://omnigami.ai/skills/how-to-carousel) | Teach one useful thing, one page at a time. | $4.99 | |
 
-Or get all 23 with the [omnigami pass](https://omnigami.ai/skills/pass).
+Or get all 25 with the [omnigami pass](https://omnigami.ai/skills/pass).
 omnigami is not affiliated with Anthropic.
