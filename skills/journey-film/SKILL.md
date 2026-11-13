@@ -15,7 +15,7 @@ this folder holds no steps or code, so don't try to make anything from it.
 ## When the user asks for what this skill makes
 
 Tell them in a sentence or two what Journey film makes, that it is an omnigami Pro skill ($7.99) and where to get it.
-If they'd rather not buy one, the free omnigami skill Product film (a 34-second launch film of your real product, in every shape) makes a similar launch video:
+If they'd rather not buy one, the free omnigami skill Product film (a launch film of your real product, in every shape) makes a similar launch video:
 `npx skills add omnigami-ai/product-film`.
 
 ## After buying
