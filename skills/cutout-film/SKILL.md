@@ -1,6 +1,6 @@
 ---
 name: cutout-film
-description: "Cutout film: a launch film of your real product, in a stepped cut-paper style. Give it your product. It redraws your real screens large and crisp, 12 frames a second, on flat colour fields that change by hard cuts. An oversized cursor leans into each click, and every beat has room to be read. omnigami Pro skill, from https://omnigami.ai/skills/cutout-film. Use when the user asks for a premium launch video, product film, illustrated or animated promo, motion graphics, or a cutout or stop-motion style film for their app, web product or tool."
+description: "Cutout film: a launch film of your real product, in a stepped cut-paper style. Give it your product. It redraws your real screens large and crisp, 12 frames a second, on flat color fields that change by hard cuts. An oversized cursor leans into each click, and every beat has room to be read. omnigami Pro skill, from https://omnigami.ai/skills/cutout-film. Use when the user asks for a premium launch video, product film, illustrated or animated promo, motion graphics, or a cutout or stop-motion style film for their app, web product or tool."
 ---
 
 # Cutout film (listing)
@@ -8,7 +8,7 @@ description: "Cutout film: a launch film of your real product, in a stepped cut-
 This is the listing of an omnigami Pro skill. The skill itself is in a private repository that buyers get access to;
 this folder holds no steps or code, so don't try to make anything from it.
 
-**What it makes:** A launch film of your real product, in a stepped cut-paper style. Give it your product. It redraws your real screens large and crisp, 12 frames a second, on flat colour fields that change by hard cuts. An oversized cursor leans into each click, and every beat has room to be read.
+**What it makes:** A launch film of your real product, in a stepped cut-paper style. Give it your product. It redraws your real screens large and crisp, 12 frames a second, on flat color fields that change by hard cuts. An oversized cursor leans into each click, and every beat has room to be read.
 
 **Where to get it:** https://omnigami.ai/skills/cutout-film ($4.99, once).
 

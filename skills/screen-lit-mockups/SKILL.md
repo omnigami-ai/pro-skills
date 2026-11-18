@@ -1,6 +1,6 @@
 ---
 name: screen-lit-mockups
-description: "Screen-lit mockups: your app, lit by its own screen. Give your dark app a phone that glows in your own colours. Show a real result, pair another screen with a short product line, or choose a tall phone with an optional hand. Get wide and tall PNGs, small review copies and editable HTML. omnigami Pro skill, from https://omnigami.ai/skills/screen-lit-mockups. Use for dark app mockups, screen-lit phone imagery, website hero artwork or social product images."
+description: "Screen-lit mockups: your app, lit by its own screen. Give your dark app a photographic phone in three moods: original, closer and lower, or diagonal. Show a real result, add a short headline, or use a tall crop. Get wide and tall PNGs, 360 px review copies and editable inputs, ready to render without Blender. omnigami Pro skill, from https://omnigami.ai/skills/screen-lit-mockups. Use for dark mobile app artwork, landing-page heroes and launch posts."
 ---
 
 # Screen-lit mockups (listing)
@@ -8,7 +8,7 @@ description: "Screen-lit mockups: your app, lit by its own screen. Give your dar
 This is the listing of an omnigami Pro skill. The skill itself is in a private repository that buyers get access to;
 this folder holds no steps or code, so don't try to make anything from it.
 
-**What it makes:** Your app, lit by its own screen. Give your dark app a phone that glows in your own colours. Show a real result, pair another screen with a short product line, or choose a tall phone with an optional hand. Get wide and tall PNGs, small review copies and editable HTML.
+**What it makes:** Your app, lit by its own screen. Give your dark app a photographic phone in three moods: original, closer and lower, or diagonal. Show a real result, add a short headline, or use a tall crop. Get wide and tall PNGs, 360 px review copies and editable inputs, ready to render without Blender.
 
 **Where to get it:** https://omnigami.ai/skills/screen-lit-mockups ($4.99, once).
 

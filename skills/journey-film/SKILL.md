@@ -1,6 +1,6 @@
 ---
 name: journey-film
-description: "Journey film: one journey through your product, one step per shot. Give it one journey through your product, like sending an invoice or booking a stay. Your real screens play on a photoreal 3D laptop and phone, one step per shot, on bold flat colours, and the steps fill in as they happen, ending on your real result. omnigami Pro skill, from https://omnigami.ai/skills/journey-film. Use when the user asks for a product journey or how-it-works film, a flow explained end to end (sending an invoice, ordering, booking, checking out, publishing), or a product video that shows how the product is used, tall for TikTok, Reels or Shorts and wide for YouTube or a site."
+description: "Journey film: one journey through your product, one step per shot. Give it one journey through your product, like sending an invoice or booking a stay. Your real screens play on a photoreal 3D laptop and phone, one step per shot, on bold flat colors, and the steps fill in as they happen, ending on your real result. omnigami Pro skill, from https://omnigami.ai/skills/journey-film. Use when the user asks for a product journey or how-it-works film, a flow explained end to end (sending an invoice, ordering, booking, checking out, publishing), or a product video that shows how the product is used, tall for TikTok, Reels or Shorts and wide for YouTube or a site."
 ---
 
 # Journey film (listing)
@@ -8,7 +8,7 @@ description: "Journey film: one journey through your product, one step per shot.
 This is the listing of an omnigami Pro skill. The skill itself is in a private repository that buyers get access to;
 this folder holds no steps or code, so don't try to make anything from it.
 
-**What it makes:** One journey through your product, one step per shot. Give it one journey through your product, like sending an invoice or booking a stay. Your real screens play on a photoreal 3D laptop and phone, one step per shot, on bold flat colours, and the steps fill in as they happen, ending on your real result.
+**What it makes:** One journey through your product, one step per shot. Give it one journey through your product, like sending an invoice or booking a stay. Your real screens play on a photoreal 3D laptop and phone, one step per shot, on bold flat colors, and the steps fill in as they happen, ending on your real result.
 
 **Where to get it:** https://omnigami.ai/skills/journey-film ($7.99, once).
 

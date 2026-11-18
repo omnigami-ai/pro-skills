@@ -1,6 +1,6 @@
 ---
 name: launch-kit
-description: "Launch kit: one launch. Every place you share it. Turn one product launch into a coordinated campaign: portrait and square carousels, a LinkedIn PDF, feed and story images, profile headers and link previews. Your real screens prove three benefits, with matching colours, one destination and post copy. omnigami Pro skill, from https://omnigami.ai/skills/launch-kit. Use for a product launch kit, feature announcement campaign or matching launch assets across social platforms."
+description: "Launch kit: one launch. Every place you share it. Turn one product launch into a coordinated campaign: portrait and square carousels, a LinkedIn PDF, feed and story images, profile headers and link previews. Your real screens prove three benefits, with matching colors, one destination and post copy. omnigami Pro skill, from https://omnigami.ai/skills/launch-kit. Use for a product launch kit, feature announcement campaign or matching launch assets across social platforms."
 ---
 
 # Launch kit (listing)
@@ -8,7 +8,7 @@ description: "Launch kit: one launch. Every place you share it. Turn one product
 This is the listing of an omnigami Pro skill. The skill itself is in a private repository that buyers get access to;
 this folder holds no steps or code, so don't try to make anything from it.
 
-**What it makes:** One launch. Every place you share it. Turn one product launch into a coordinated campaign: portrait and square carousels, a LinkedIn PDF, feed and story images, profile headers and link previews. Your real screens prove three benefits, with matching colours, one destination and post copy.
+**What it makes:** One launch. Every place you share it. Turn one product launch into a coordinated campaign: portrait and square carousels, a LinkedIn PDF, feed and story images, profile headers and link previews. Your real screens prove three benefits, with matching colors, one destination and post copy.
 
 **Where to get it:** https://omnigami.ai/skills/launch-kit ($4.99, once).
 

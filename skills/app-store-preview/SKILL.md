@@ -1,6 +1,6 @@
 ---
 name: app-store-preview
-description: "App Store preview: your app’s store preview and a matching tall social film. Show what your app helps people do, from the first action to the result. Real app footage fills the store preview, while the social cut pairs it with bold benefit cards and a moving phone. Both use your colours, words and the included song. omnigami Pro skill, from https://omnigami.ai/skills/app-store-preview."
+description: "App Store preview: your app’s store preview and a matching tall social film. Show what your app helps people do, one benefit at a time. Each chapter opens on a headline above your app, grows the screen to full frame, then shows one real tap and the app’s own response. Both cuts use your colors, words and the included song. omnigami Pro skill, from https://omnigami.ai/skills/app-store-preview."
 ---
 
 # App Store preview (listing)
@@ -8,7 +8,7 @@ description: "App Store preview: your app’s store preview and a matching tall 
 This is the listing of an omnigami Pro skill. The skill itself is in a private repository that buyers get access to;
 this folder holds no steps or code, so don't try to make anything from it.
 
-**What it makes:** Your app’s store preview and a matching tall social film. Show what your app helps people do, from the first action to the result. Real app footage fills the store preview, while the social cut pairs it with bold benefit cards and a moving phone. Both use your colours, words and the included song.
+**What it makes:** Your app’s store preview and a matching tall social film. Show what your app helps people do, one benefit at a time. Each chapter opens on a headline above your app, grows the screen to full frame, then shows one real tap and the app’s own response. Both cuts use your colors, words and the included song.
 
 **Where to get it:** https://omnigami.ai/skills/app-store-preview ($4.99, once).
 

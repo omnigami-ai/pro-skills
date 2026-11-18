@@ -1,6 +1,6 @@
 ---
 name: verb-film
-description: "Verb film: six short verbs on the beat, each one acted out by a real piece of your product. A film for a product with a few things it does. Six short phrases cut on the beat, each acted out by a real piece of your product: an amount ticks up, a draft is sent, a status pill steps on, your list spins onto the phrase. omnigami Pro skill, from https://omnigami.ai/skills/verb-film. Use when the user asks for a verb film, a kinetic type film or sting of their product's verbs, a short punchy product ad, an \"it does this, and this\" film or a short launch teaser in wide and tall."
+description: "Verb film: six short verbs on the beat, each one acted out by a real piece of your product. A film for a product with a few things it does. Six short phrases cut on the beat, each acted out by a real piece of your product: an amount ticks up, a draft is sent, a status pill steps on, your list spins onto the phrase. omnigami Pro skill, from https://omnigami.ai/skills/verb-film. Use for a verb film, kinetic product teaser or short punchy product promo."
 ---
 
 # Verb film (listing)

@@ -1,6 +1,6 @@
 ---
 name: app-store-screenshots
-description: "App Store screenshots: give your app a story before the first tap. Turn your app’s real screens into an eight-image App Store set. Short benefit captions, large photoreal phones and your own colours tell a clear story: what the app does, why it helps and a real result in the first three. Export PNGs in two sizes. omnigami Pro skill, from https://omnigami.ai/skills/app-store-screenshots. Use for an iOS app listing, App Store screenshots, a store screenshot redesign or a coordinated screenshot set. Use a video skill for an App Store preview movie."
+description: "App Store screenshots: give your app a story before the first tap. Turn your app’s real screens into an eight-image App Store set. Short benefit captions, large photoreal phones and your own colors tell a clear story: what the app does, why it helps and a real result in the first three. Export PNGs in two sizes. omnigami Pro skill, from https://omnigami.ai/skills/app-store-screenshots. Use for an iOS app listing, App Store screenshots, a store screenshot redesign or a coordinated screenshot set. Use a video skill for an App Store preview movie."
 ---
 
 # App Store screenshots (listing)
@@ -8,7 +8,7 @@ description: "App Store screenshots: give your app a story before the first tap.
 This is the listing of an omnigami Pro skill. The skill itself is in a private repository that buyers get access to;
 this folder holds no steps or code, so don't try to make anything from it.
 
-**What it makes:** Give your app a story before the first tap. Turn your app’s real screens into an eight-image App Store set. Short benefit captions, large photoreal phones and your own colours tell a clear story: what the app does, why it helps and a real result in the first three. Export PNGs in two sizes.
+**What it makes:** Give your app a story before the first tap. Turn your app’s real screens into an eight-image App Store set. Short benefit captions, large photoreal phones and your own colors tell a clear story: what the app does, why it helps and a real result in the first three. Export PNGs in two sizes.
 
 **Where to get it:** https://omnigami.ai/skills/app-store-screenshots ($4.99, once).
 
