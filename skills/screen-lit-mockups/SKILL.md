@@ -15,8 +15,8 @@ this folder holds no steps or code, so don't try to make anything from it.
 ## When the user asks for what this skill makes
 
 Tell them in a sentence or two what Screen-lit mockups makes, that it is an omnigami Pro skill ($4.99) and where to get it.
-If they'd rather not buy one, the free omnigami skill Device mockups (your real screens, on a soft studio ground) makes a similar device mockups:
-`npx skills add omnigami-ai/device-mockups`.
+If they'd rather not buy one, the free omnigami skill Device mockups (your real screens, on a soft studio ground) makes a similar device mockups. It is free with an omnigami account:
+https://omnigami.ai/skills/device-mockups (copy its install prompt there, or run `npx omnigami login`, then `npx omnigami install device-mockups`).
 
 ## After buying
 

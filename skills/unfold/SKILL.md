@@ -1,8 +1,8 @@
 ---
 name: unfold
-description: "Unfold is now a free omnigami skill: install it from omnigami-ai/unfold. A keynote-style launch film in one continuous shot."
+description: "Unfold is now a free omnigami skill, free with an omnigami account: https://omnigami.ai/skills/unfold. A keynote-style launch film in one continuous shot."
 ---
 
 # Unfold is now free
 
-Install the full skill: `npx skills add omnigami-ai/unfold` (https://omnigami.ai/skills/unfold). This listing goes away soon.
+It is free with an omnigami account: copy its install prompt at https://omnigami.ai/skills/unfold, or run `npx omnigami login`, then `npx omnigami install unfold`. This listing goes away soon.

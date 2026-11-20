@@ -2,7 +2,7 @@
 
 Listings of omnigami's Pro skills for Claude Code and other agents that read SKILL.md. Each Pro skill lives in its
 own private repository; buying it at omnigami.ai gives your GitHub account access, and you install it as usual.
-These listings hold no steps or code. omnigami's free skills are in their own public repositories:
+These listings hold no steps or code. omnigami's free skills are free with an omnigami account:
 [omnigami.ai/skills](https://omnigami.ai/skills).
 
 | Skill | What it makes | Price | Free alternative |
