@@ -19,7 +19,11 @@ omnigami has no free skill that does the same job.
 
 ## After buying
 
-Install the full skill, which replaces this listing:
+Sign in with the email used for payment. Copy the install prompt at https://omnigami.ai/skills/sales-deck, or run `npx omnigami login`,
+then `npx omnigami install sales-deck`. Signed-in download is also available.
+
+GitHub remains an alternative: connect it in [Your skills](https://omnigami.ai/account), accept the invitation, then install
+the full skill, which replaces this listing:
 
 - Any agent that reads SKILL.md: `npx skills add omnigami-ai/sales-deck`
 - Claude Code: `/plugin marketplace add omnigami-ai/skills`, then `/plugin install omnigami-sales-deck@omnigami`

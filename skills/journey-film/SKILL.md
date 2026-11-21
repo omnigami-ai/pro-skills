@@ -20,7 +20,11 @@ https://omnigami.ai/skills/product-film (copy its install prompt there, or run `
 
 ## After buying
 
-Install the full skill, which replaces this listing:
+Sign in with the email used for payment. Copy the install prompt at https://omnigami.ai/skills/journey-film, or run `npx omnigami login`,
+then `npx omnigami install journey-film`. Signed-in download is also available.
+
+GitHub remains an alternative: connect it in [Your skills](https://omnigami.ai/account), accept the invitation, then install
+the full skill, which replaces this listing:
 
 - Any agent that reads SKILL.md: `npx skills add omnigami-ai/journey-film`
 - Claude Code: `/plugin marketplace add omnigami-ai/skills`, then `/plugin install omnigami-journey-film@omnigami`
